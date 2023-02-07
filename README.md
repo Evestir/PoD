@@ -1,2 +1,2 @@
 # PoD
-C++ DoS Attack
+DoS Attack Script written in cpp for macos.
